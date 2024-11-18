@@ -13,7 +13,7 @@
     5. Optimization Results
     6. Calculating Portfolio Return and Risk
     7. Displaying Results
-* Additional Explanation:
+* Additional Explanation
 * Conclusion
 
 ## Overview
